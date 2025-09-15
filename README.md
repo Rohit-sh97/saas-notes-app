@@ -126,5 +126,4 @@ Backend: [Render/Railway link here]
  Add note sharing & collaboration
 
 📜 License
-
-MIT License © 2025 Rohit Sharma
+© 2025 Rohit Sharma
