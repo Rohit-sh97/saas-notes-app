@@ -10,7 +10,7 @@ const app = express();
 // allow frontend during dev and prod
 const allowedOrigins = [
   "http://localhost:5173",   // Vite dev
-  "https://your-frontend.vercel.app" // replace with actual Vercel frontend URL later
+  "https://saas-notes-app-jade.vercel.app" // replace with actual Vercel frontend URL later
 ];
 
 app.use(cors({
