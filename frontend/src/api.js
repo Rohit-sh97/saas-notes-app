@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://saas-notes-app-86t1.onrender.com", // later replace with Vercel backend URL
+  baseURL: "https://saas-notes-app-jade.vercel.app", // later replace with Vercel backend URL
 });
 
 // Add token automatically if exists
